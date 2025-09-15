@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 🌱 **Front-End Developer** passionate about building clean and scalable web applications.  
 💬 **Ask me about:** React.js, Next.js, JavaScript, Frontend Best Practices.  
-📧 **Email:** [awaiszulfqar@gmail.com](mailto:awaiszulfqar@gmail.com)  
+📧 **Email:** [chawaiszulfqar@gmail.com](mailto:chawaiszulfqar@gmail.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-awais-39314a2bb/)
 
