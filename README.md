@@ -42,4 +42,4 @@
 ## 🌟 Highlights  
 🏆 **GitHub Trophies:** ![Trophies](https://github-profile-trophy.vercel.app/?username=awaiszul&theme=algolia)  
 📚 **Always Learning:** Exploring Next.js 14 and Advanced React Patterns.  
-🔗 **Open to Collaboration:** Reach out if you have an exciting project! ya check kro
+🔗 **Open to Collaboration:** Reach out if you have an exciting project! 
